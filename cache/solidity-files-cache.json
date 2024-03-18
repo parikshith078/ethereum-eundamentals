@@ -1,0 +1,187 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/parikshith/Craft/projects/ethereum/contracts/Counter.sol": {
+      "lastModificationDate": 1710650348588,
+      "contentHash": "e0ae4c02e1fce0f73a71533b1864ee44",
+      "sourceName": "contracts/Counter.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Counter"
+      ]
+    },
+    "/Users/parikshith/Craft/projects/ethereum/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1708527279695,
+      "contentHash": "896f68942c3a20e9ae3c3c5bfd3add54",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "/Users/parikshith/Craft/projects/ethereum/contracts/Hero.sol": {
+      "lastModificationDate": 1710656372222,
+      "contentHash": "c63b2edef90d1cefcdaac6462a1628ae",
+      "sourceName": "contracts/Hero.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Hero"
+      ]
+    },
+    "/Users/parikshith/Craft/projects/ethereum/contracts/HolloWorld.sol": {
+      "lastModificationDate": 1708600892130,
+      "contentHash": "26a917f676bab19d4ec9806d686136c4",
+      "sourceName": "contracts/HolloWorld.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "HolloWorld"
+      ]
+    },
+    "/Users/parikshith/Craft/projects/ethereum/contracts/TestGas.sol": {
+      "lastModificationDate": 1710653473520,
+      "contentHash": "0c0d1920e17a1aaa792b0e005f5ab51d",
+      "sourceName": "contracts/TestGas.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "TestGas"
+      ]
+    }
+  }
+}
